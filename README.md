@@ -23,13 +23,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](screenshot/screenshot.jpg)
+![](screenshot/screenshot.webp)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://kayy-w.github.io/Profile-card)
-- Live Site URL: [Add live site URL here](https://kayy-w.github.io/Profile-card)
+- Live Site URL: [https://kayy-w.github.io/Profile-card](https://kayy-w.github.io/Profile-card)
 
 ## My process
 
