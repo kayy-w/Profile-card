@@ -28,8 +28,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://kayy-w.github.io/Profile-card)
-- Live Site URL: [https://kayy-w.github.io/Profile-card](https://kayy-w.github.io/Profile-card)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-profile-card-using-html-and-scss-with-flexbox-DstKQXO5ti](https://www.frontendmentor.io/solutions/responsive-profile-card-using-html-and-scss-with-flexbox-DstKQXO5ti)
+- Live Site URL: [https://kayy-w.github.io/Profile-card/](https://kayy-w.github.io/Profile-card/)
 
 ## My process
 
